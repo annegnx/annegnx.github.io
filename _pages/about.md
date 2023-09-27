@@ -5,7 +5,7 @@ permalink: /
 subtitle:  PhD Student in Machine Learning at <a href='https://www.ens-lyon.fr'>ENS de Lyon</a>.
 
 profile:
-  align: left
+  align: right
   image: anne.jpg
   image_circular: false # crops the image to make it circular
   address:
