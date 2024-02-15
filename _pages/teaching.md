@@ -14,3 +14,10 @@ nav_order: 2
 #### Master 2 MIASHS - Université Lyon 2
 
 - Robust methods of Machine Learning. Tutorials' notebooks  may be found [here](https://github.com/annegnx/mash_m2/tree/main/adversary/session1).
+
+#### L3 INFO - ENS Lyon
+
+- Tutorials for the probability course.
+    1. [TD1]({{annegnx.github.io}}/assets/teaching/L3_2024/TD1.pdf)
+    2. [TD2]({{annegnx.github.io}}/assets/teaching/L3_2024/TD2.pdf)
+
