@@ -20,6 +20,11 @@ nav_order: 2
 #### L3 INFO - ENS Lyon (32h)
 
 - Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html) given by Guillaume Aubrun.
-    1. [TD1]({{annegnx.github.io}}/assets/teaching/L3_2024/TD1.pdf)
-    2. [TD2]({{annegnx.github.io}}/assets/teaching/L3_2024/TD2.pdf)
+    -  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2024/TD1.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD01_correction.pdf)
+    -  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2024/TD2.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD2_correction.pdf)
+    -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2024/TD03.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD03_corr.pdf)
+    -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2024/TD04.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD04-corr.pdf)
+    -  [TD5]({{annegnx.github.io}}/assets/teaching/L3_2024/TD05.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD05_corr.pdf)
+    -  [TD6]({{annegnx.github.io}}/assets/teaching/L3_2024/TD06.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD6-corr.pdf)
+    -  [TD7]({{annegnx.github.io}}/assets/teaching/L3_2024/TD07.pdf)
 
