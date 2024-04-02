@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching assistant at Université Lyon 2 and ENS de Lyon.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 #### Master 1 [MIASHS - Université Lyon 2](https://www.univ-lyon2.fr/master-1-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs) (12h)

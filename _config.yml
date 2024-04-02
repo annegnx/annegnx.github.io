@@ -270,8 +270,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gagneux]
+  first_name: [Anne, A.]
 
   style: apa
   locale: en
@@ -287,9 +287,9 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+  # details_dir: bibliography
+  # details_layout: bibtex.html
+  # details_link: Details
 
   query: "@*"
   group_by: year
@@ -413,6 +413,7 @@ jsonresume:
   - basics
   - work
   - education
+  - talks
   - publications
   - projects
   - volunteer
