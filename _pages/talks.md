@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
@@ -16,4 +16,3 @@ nav_order: 2
 
 </div>
 
-<!-- - **Automated and unbiased coefficient clustering.** [Poster]({{annegnx.github.io}}/assets/talks/2024/poster_smai_mode.pdf) presented at [SMAI Mode Days 2024](https://indico.math.cnrs.fr/event/9418/) (best presentation award). -->
