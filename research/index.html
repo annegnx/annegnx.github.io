@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>talks | Anne  Gagneux</title>
+    <title>research | Anne  Gagneux</title>
     <meta name="author" content="Anne  Gagneux">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
+    <meta name="description" content="The list of my publications can be found below. The symbol * denotes joint first-authors with equal contributions.">
 
 
     <!-- Bootstrap & MDB -->
@@ -38,7 +37,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e">
-    <link rel="canonical" href="https://annegnx.github.io/talks/">
+    <link rel="canonical" href="https://annegnx.github.io/research/">
 
     <!-- Dark Mode -->
     
@@ -78,11 +77,11 @@
 
 
           <!-- Other pages -->
-          <li class="nav-item ">
-            <a class="nav-link" href="/research/">research</a>
-          </li>
           <li class="nav-item active">
-            <a class="nav-link" href="/talks/">talks<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="/research/">research<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/talks/">talks</a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="/teaching/">teaching</a>
@@ -115,12 +114,12 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">talks</h1>
-            <p class="post-description"></p>
+            <h1 class="post-title">research</h1>
+            <p class="post-description">The list of my publications can be found below. The symbol * denotes joint first-authors with equal contributions.</p>
           </header>
 
           <article>
-            <!-- _pages/publications.md -->
+            <!-- _pages/research.md -->
 
 <div class="publications">
 
@@ -129,19 +128,32 @@
     
 
     <!-- Entry bib key -->
-    <div id="poster_smai_mode" class="col-sm-10">
+    <div id="2024pnpflow" class="col-sm-10">
         <!-- Title -->
-        <div class="title">Automated and unbiased coefficients clustering. </div>
+        <div class="title">PnP-Flow: Plug-and-Play Image Restoration with Flow Matching</div>
         <!-- Author -->
         <div class="author">
             
 
             
-            <em>A.
-                Gagneux</em>, M.
-            Massias
-            , and E.
-            Soubies
+            S.
+            Martin*
+            , <em>A.
+                Gagneux*</em>, P.
+            Hagemann*
+            , and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'G. Steidl' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.text(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
             
         </div>
 
@@ -154,8 +166,7 @@
         
         
         <div class="periodical">
-            <em>Poster presented at <a href="https://indico.math.cnrs.fr/event/9418/" rel="external nofollow noopener" target="_blank">SMAI Mode days</a> (best poster award),
-               Seminar SPOC at Institut de Mathématiques de Bourgogne</em> ,  2024
+            <em></em> 2024
         </div>
         <div class="periodical">
             
@@ -169,12 +180,14 @@
             
             
             
+            <a href="https://arxiv.org/pdf/2410.02423.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
             
             
             
             
             
-            <a href="/assets/pdf/talks/2024/poster_smai_mode.pdf" class="btn btn-sm z-depth-0" role="button">Poster</a>
+            
+            <a href="https://github.com/annegnx/PnP-Flow" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
             
             
             
