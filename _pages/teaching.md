@@ -17,9 +17,8 @@ nav_order: 4
 #### L3 INFO - ENS Lyon (32h)
 
 - Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html) given by Guillaume Aubrun.
-    -  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2024/TD1.pdf)
-    <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD01_correction.pdf) -->
-    <!-- -  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2024/TD2.pdf) -->
+    -  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2025/TD01.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD01_corr.pdf)
+    -  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2025/TD02.pdf)
     <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD2_correction.pdf) -->
     <!-- -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2024/TD03.pdf) -->
     <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD03_corr.pdf) -->
