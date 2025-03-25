@@ -22,9 +22,9 @@ nav_order: 4
     -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2025/TD03.pdf)
     <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD03_corr.pdf) -->
     -  [TD4]({{annegnx.github.io}}/assets/teaching/L3_2025/TD04.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD04_corr.pdf)
-    -  [TD5]({{annegnx.github.io}}/assets/teaching/L3_2024/TD05.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD05_corr.pdf)
-    -  [TD6]({{annegnx.github.io}}/assets/teaching/L3_2024/TD06.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD06_corr.pdf)
-    -  [TD7]({{annegnx.github.io}}/assets/teaching/L3_2024/TD07.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD07_corr.pdf)
+    -  [TD5]({{annegnx.github.io}}/assets/teaching/L3_2025/TD05.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD05_corr.pdf)
+    -  [TD6]({{annegnx.github.io}}/assets/teaching/L3_2025/TD06.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD06_corr.pdf)
+    -  [TD7]({{annegnx.github.io}}/assets/teaching/L3_2025/TD07.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD07_corr.pdf)
     <!-- -  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2024/TD08.pdf) -->
     <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD8-corr.pdf) -->
     <!-- -  [TD9]({{annegnx.github.io}}/assets/teaching/L3_2024/TD09.pdf) -->
