@@ -24,9 +24,8 @@ nav_order: 4
     -  [TD5]({{annegnx.github.io}}/assets/teaching/L3_2025/TD05.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD05_corr.pdf)
     -  [TD6]({{annegnx.github.io}}/assets/teaching/L3_2025/TD06.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD06_corr.pdf)
     -  [TD7]({{annegnx.github.io}}/assets/teaching/L3_2025/TD07.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD07_corr.pdf)
-    -  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2025/TD08.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD8_corr.pdf)
-    <!-- -  [TD9]({{annegnx.github.io}}/assets/teaching/L3_2024/TD09.pdf) -->
-    <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD09-corr.pdf) -->
+    -  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2025/TD08.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD08_corr.pdf)
+    -  [TD9]({{annegnx.github.io}}/assets/teaching/L3_2025/TD09.pdf),
 
     *Devoir Maison:*  [Sujet]({{annegnx.github.io}}/assets/teaching/L3_2025/dm.pdf),
 
