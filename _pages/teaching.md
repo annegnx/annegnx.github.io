@@ -19,12 +19,12 @@ nav_order: 4
 - Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html) given by Guillaume Aubrun.
     -  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2025/TD01.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD01_corr.pdf)
     -  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2025/TD02.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD02_corr.pdf)
-    -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2025/TD03.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD03_corr.pdf) -->
+    -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2025/TD03.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD03_corr.pdf)
     -  [TD4]({{annegnx.github.io}}/assets/teaching/L3_2025/TD04.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD04_corr.pdf)
     -  [TD5]({{annegnx.github.io}}/assets/teaching/L3_2025/TD05.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD05_corr.pdf)
     -  [TD6]({{annegnx.github.io}}/assets/teaching/L3_2025/TD06.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD06_corr.pdf)
     -  [TD7]({{annegnx.github.io}}/assets/teaching/L3_2025/TD07.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD07_corr.pdf)
-    -  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2025/TD08.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD8-corr.pdf) -->
+    -  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2025/TD08.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2025/TD8_corr.pdf)
     <!-- -  [TD9]({{annegnx.github.io}}/assets/teaching/L3_2024/TD09.pdf) -->
     <!-- , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2024/TD09-corr.pdf) -->
 
