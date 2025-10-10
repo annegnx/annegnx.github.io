@@ -14,7 +14,13 @@ nav_order: 4
 
 Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html) given by Guillaume Aubrun.
 
+**Devoir Maison (à rendre pour le 24/10)** [Sujet]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet.pdf)
+
+
 -  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr.pdf)
+-  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_corr.pdf)
+-  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_corr.pdf)
+
 
 
 ##### 2023-2024
