@@ -17,8 +17,8 @@ Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseign
 **Devoir Maison (à rendre pour le 24/10)** [Sujet]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet_large.pdf)
 
 
--  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_large.pdf) , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr_large.pdf)
--  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_large.pdf) , [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_corr_large.pdf)
+-  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr_large.pdf)
+-  [TD2]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD02_corr_large.pdf)
 -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_corr_large.pdf)
 -  [TD4]({{annegnx.github.io}}/assets/teaching/L3_2026/TD04.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD04_large.pdf)
 
