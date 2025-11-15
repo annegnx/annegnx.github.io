@@ -14,7 +14,7 @@ nav_order: 4
 
 Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html) given by Guillaume Aubrun.
 
-**Devoir Maison (à rendre pour le 24/10)** [Sujet]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet_large.pdf)
+**Devoir Maison (à rendre pour le 24/10)** [Sujet]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_sujet_large.pdf) [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/DM_corr_large.pdf)
 
 
 -  [TD1]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD01_corr_large.pdf)
@@ -22,6 +22,9 @@ Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseign
 -  [TD3]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD03_corr_large.pdf)
 -  [TD4]({{annegnx.github.io}}/assets/teaching/L3_2026/TD04.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD04_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD04_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD04_corr_large.pdf)
 -  [TD5]({{annegnx.github.io}}/assets/teaching/L3_2026/TD05.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD05_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD05_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD05_corr_large.pdf)
+-  [TD6]({{annegnx.github.io}}/assets/teaching/L3_2026/TD06.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD06_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD06_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD06_corr_large.pdf)
+-  [TD7]({{annegnx.github.io}}/assets/teaching/L3_2026/TD07.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD07_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD07_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD07_corr_large.pdf)
+-  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08_corr_large.pdf)
 
 
 
