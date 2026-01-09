@@ -29,6 +29,8 @@ Tutorials for the [probability course](http://math.univ-lyon1.fr/~aubrun/enseign
 -  [TD8]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD08_corr_large.pdf)
 -  [TD9]({{annegnx.github.io}}/assets/teaching/L3_2026/TD09.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD09_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD09_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD09_corr_large.pdf)
 -  [TD10]({{annegnx.github.io}}/assets/teaching/L3_2026/TD10.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD10_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD10_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD10_large_corr.pdf)
+-  [TD11]({{annegnx.github.io}}/assets/teaching/L3_2026/TD11.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD11_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD11_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD11_large_corr.pdf)
+-  [TD12]({{annegnx.github.io}}/assets/teaching/L3_2026/TD12.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD12_large.pdf), [Correction]({{annegnx.github.io}}/assets/teaching/L3_2026/TD12_corr.pdf) - [Large print]({{annegnx.github.io}}/assets/teaching/L3_2026/TD12_large_corr.pdf)
 
 
 
